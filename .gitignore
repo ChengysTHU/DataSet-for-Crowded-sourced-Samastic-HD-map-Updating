@@ -1,0 +1,7 @@
+/out
+/bag
+**/gnss_loc.txt
+**/fusion_loc.txt
+**/lidar_loc.txt
+**/odometry_loc.txt
+**/pcd_timestamp.txt
